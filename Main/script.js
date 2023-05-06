@@ -1,4 +1,12 @@
 $(document).ready(function () {
+
+  // Clear Field Button to clear contents and local storage
+  $("#clearApptsBtn").click(function (event) {
+    event.preventDefault;
+    $("textarea").val("");
+    localStorage.clear();
+  });
+
   // listen for save button clicks
   $('.saveBtn').on('click', function () {
     // get nearby values
