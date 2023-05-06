@@ -3,6 +3,8 @@
 ## Description
 This is a Work Day Scheduler that allows users to enter appointments by hour. Each timeblock is color coded by the past, present, or future. Users also have the ability to clear the Work Day Scheduler by simply clicking on the Clear Appointments button. 
 
+https://fdirige.github.io/Work-Day-Scheduler/
+
 ## User Story
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
